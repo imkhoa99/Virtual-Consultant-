@@ -1,0 +1,11 @@
+<root>
+<startingExpression>
+	<hello x = "Hello, I'm Khoa Lai, your virtual assistant. Please tell me what are you feeling now?"/>
+	<hello x = "Please tell me what's been bothering you."/>
+</startingExpression>
+
+<goodBye>
+	<phrases x = "Psychiatrist: It's has been nice talking with you. See you then"/>
+	<phrases x = "Psychiatrist: Goodbye. Reach me back if you have any further concerns"/>
+</goodBye>
+</root>

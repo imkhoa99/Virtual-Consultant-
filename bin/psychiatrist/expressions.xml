@@ -1,0 +1,59 @@
+<root>
+<listOfExpressions>
+	<expression x = "Psychiatrist: What is the reason for the fact that"/>
+	<expression x = "Psychiatrist: OK, I see. Can you elaborate more on that" />
+	<expression x = "Psychiatrist: Keep feeling your body, please go on"/>
+	<expression x = "Psychiatrist: What is it that makes"/>
+	<expression x = "Psychiatrist: Let's discuss further why"/>
+	<expression x = "Psychiatrist: Tell me more about"/> 
+	<expression x = "Psychiatrist: That is interesting. Please continue"/>
+	<expression x = "Psychiatrist: What makes"/>
+	<expression x = "Psychiatrist: Why is it happening?"/>
+</listOfExpressions>
+
+<beginning>
+	<commence x = "Psychiatrist: How do you do? Please tell me your problem."/>
+	<commence x = "Psychiatrist: Tell me what has been bothering you?"/>
+</beginning>
+
+<starting>
+	<start x = "Hello, I'm Khoa Lai, your virtual assistant. Enter 'good bye' to end the session."/>
+	<start x = "Hello, I'm here to help you. Enter 'good bye' to end the session."/>
+</starting>
+
+<yes>
+	<feeling x = "Psychiatrist: You are sure"/>
+	<feeling x = "Psychiatrist: I see"/>
+	<feeling x = "Psychiatrist: I'm curious to know more about that"/>
+</yes>
+
+<negative>
+	<discourage x = "Psychiatrist: Why not?"/>
+	<discourage x = "Psychiatrist: Don't you really know?"/>
+	<discourage x = "Psychiatrist: I'm not sure I understand you fully."/>
+</negative>
+
+<nothing>
+	<blank x = "Psychiatrist: Are you kidding me?"/>
+	<blank x = "Psychiatrist: Your sentence is blank. Please retype"/>
+	<blank x = "Psychiatrist: Hmm.."/>
+</nothing>
+
+<indifference>
+	<indifferent x = "Psychiatrist: There is a bit not certain in your thoughts. I suppose." />
+</indifference>
+
+<questions>
+	<solved x = "Psychiatrist: I don't seem to answer questions. But please go on."/>
+	<solved x = "Psychiatrist: I do not answer questions, sorry. But, what is it you really want to know?"/>
+</questions>
+
+<ambiguity>
+	<first x = "Psychiatrist: What does that suggest to you"/>
+	<second x = "Psychiatrist: Hmm...that's interesting. Please go on."/>
+</ambiguity>
+
+<end>
+
+</end>
+</root>

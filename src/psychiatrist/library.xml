@@ -1,0 +1,23 @@
+<root>
+<sad>
+	<solve x = "bad"/>
+	<solve x = "disappointed"/>
+	<solve x = "worry"/>
+	<solve x = "worried"/>
+	<solve x = "miserable"/>
+	<solve x = "conflicts"/>
+	<solve x = "hopeless"/>
+	<solve x = "discouraged"/>
+	<solve x = "upset"/>
+	<solve x = "depressing"/>
+	<solve x = "sad"/>
+</sad>
+
+<sadSolved>
+	<cope x = "I am here to listen to you. Sadness is normal in daily life. And one way to solve it is to confide in someone you trust."/>
+	<cope x = "Difficulty always occurs, I believe I can help you overcome."/>
+	<cope x = "Has it happened for a long time?"/>
+	<cope x = "Can you elaborate more on that?"/>
+	<cope x = "Feeling sad is like a signal to help you realize what is wrong with your life."/>
+</sadSolved>
+</root>

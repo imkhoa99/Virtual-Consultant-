@@ -1,0 +1,32 @@
+Mon, 13/05/2019, 12:30 PM
+
+Psychiatrist: Hello, I'm here to help you. Enter 'good bye' to end the session.
+User: 
+Inspirational quote: The moment you feel at the lowest point, that's signaling a transformation
+Psychiatrist: Hmm..
+User: 
+Inspirational quote: Life is not always easy, hardship is part of the life. Happiness comes from overcoming the barriers.
+Psychiatrist: Your sentence is blank. Please retype
+User: 
+Inspirational quote: Life is not always easy, hardship is part of the life. Happiness comes from overcoming the barriers.
+Psychiatrist: Are you kidding me?
+User: dsada
+Inspirational quote: The moment you feel at the lowest point, that's signaling a transformation
+Psychiatrist: What makes dsada?
+User: good bye
+Psychiatrist: Goodbye. Reach me back if you have any further concerns
+
+----------------------------------------------------------------------------------------------------
+Mon, 13/05/2019, 12:31 PM
+
+Psychiatrist: Hello, I'm Khoa Lai, your virtual assistant. Enter 'good bye' to end the session.
+User: sdadsadsa
+Inspirational quote: The moment you feel at the lowest point, that's signaling a transformation
+Psychiatrist: OK, I see. Can you elaborate more on that sdadsadsa?
+User: sad sda
+Helen Keller: Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+I am here to listen to you. Sadness is normal in daily life. And one way to solve it is to confide in someone you trust.
+User: good bye
+Psychiatrist: Goodbye. Reach me back if you have any further concerns
+
+----------------------------------------------------------------------------------------------------
