@@ -1,4 +1,4 @@
-** Welcome to the world of advice given by an AI consultant :) **
+**Welcome to the world of advice given by an AI consultant :)**
 
 Description of the program: 
 - The program converses with the user via a graphical user interface. 
