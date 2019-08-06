@@ -1,6 +1,6 @@
-### Welcome to the world of advice given by an AI consultant :)
+###### Welcome to the world of advice given by an AI consultant :)
 
-Description of the program: 
+## **Description of the program:** 
 - The program converses with the user via a graphical user interface. 
 - It listens to the worries of the user, asks the user questions about the topics that come up and gives "advice". This virtual consultant could examine the feeling of the user based on their input, and proceed to feeling evaluation to see how to give a reasonable advice. The more details the user expresses, the better understanding the program becomes. 
 - The consulting session will last until the user indicates to end by saying "good bye". 
