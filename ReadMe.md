@@ -3,6 +3,9 @@
 ### Program description:
 The program has some sort of artificial intelligence so that it could listen to the worries of the user, ask the user questions about the topics that come up and give "advice". This virtual consultant could examine the feeling of the user based on their input, and proceed to feeling evaluation to see how to give a reasonable advice. The more details the user expresses, the better understanding the program becomes. The consulting session will last until the user indicates to end by saying "good bye". The program converses with the user via a graphical user interface (GUI) in which the user has an option to save the file for further inquiry or forcefully terminate the program. 
 
+A screenshot of the program:
+![Image of the program](https://i.ibb.co/vZP5RVt/Screenshot-2019-11-27-at-5-29-21-PM.png)
+
 ### Additional feature:
 1. The program has an archive mode that allows the user if he/she wants to store the conversation into a file, and it comes together with a timestamp.
 2. During the session, the program prints inspirational quotes from well-renowned people in the world, so that it makes the conversation more inspiring and encouraging.
@@ -21,4 +24,4 @@ The program has some sort of artificial intelligence so that it could listen to 
 - Email: llmkhoa511@gmail.com
 - Linkedln: https://www.linkedin.com/in/khoalai/
 
-![Image of the program](https://i.ibb.co/vZP5RVt/Screenshot-2019-11-27-at-5-29-21-PM.png)
+
