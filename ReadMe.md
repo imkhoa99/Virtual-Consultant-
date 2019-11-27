@@ -21,5 +21,4 @@ The program has some sort of artificial intelligence so that it could listen to 
 - Email: llmkhoa511@gmail.com
 - Linkedln: https://www.linkedin.com/in/khoalai/
 
-![Image of the program](https://cdn1.imggmi.com/uploads/2019/11/27/57e1fb86941b53786cf67647b570a1c6-full.png)
-
+![Image of the program](https://i.ibb.co/vZP5RVt/Screenshot-2019-11-27-at-5-29-21-PM.png)
