@@ -20,6 +20,6 @@ The program has some sort of artificial intelligence so that it could listen to 
 - Phone number: +358(0)465416159
 - Email: llmkhoa511@gmail.com
 - Linkedln: https://www.linkedin.com/in/khoalai/
-- Facebook: https://www.facebook.com/khoa.ryan.10
 
-**Enjoy my work :D** 
+![Image of the program](https://cdn1.imggmi.com/uploads/2019/11/27/57e1fb86941b53786cf67647b570a1c6-full.png)
+
